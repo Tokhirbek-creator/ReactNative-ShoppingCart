@@ -4,5 +4,4 @@
 ![ReactNative-ShoppingCart-CartScreen](https://user-images.githubusercontent.com/95226208/156887853-8336862d-8517-41dc-88e7-44049ed2de95.png)
 
 
-## npm install
-## expo start
+`npm install` && `npm start` Then select command || press `w`
